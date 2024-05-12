@@ -22,6 +22,9 @@ public class StandAloneTest {
 		//This is the change made by user1
 		//Line 2
 		//Line 3
+		//This is the change made by user2
+				//Line 2
+				//Line 3
 
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
