@@ -19,6 +19,9 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//This is the change made by user1
+		//Line 2
+		//Line 3
 
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
