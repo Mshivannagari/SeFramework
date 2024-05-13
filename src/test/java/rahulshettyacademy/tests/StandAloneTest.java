@@ -22,6 +22,7 @@ public class StandAloneTest {
 		
 		//dev branch change by user 1
 		
+		// dev branch by user 2
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
