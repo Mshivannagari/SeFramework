@@ -58,8 +58,8 @@ public class BaseTest {
 			driver.manage().window().setSize(new Dimension(1440,900));//full screen
 
 		} else if (browserName.equalsIgnoreCase("firefox")) {
-			System.setProperty("webdriver.gecko.driver",
-					"/Users/rahulshetty//documents//geckodriver");
+			//System.setProperty("webdriver.gecko.driver",
+					//"/Users/rahulshetty//documents//geckodriver");
 			driver = new FirefoxDriver();
 			// Firefox
 		} else if (browserName.equalsIgnoreCase("edge")) {
